@@ -376,14 +376,15 @@ footer.footer-animate {
     font-size: 1.5rem;
   }
   button {
-    font-size: 1rem;
+    font-size: .8rem;
     padding: .5rem 1rem;
+    margin-top: -1rem;
   }
   .navbar {
     width: 70px;
     font-size: 0.8rem;
   }
   footer{
-    margin-top: 6rem;
+    margin-top: 4.5rem;
   }
 }
